@@ -1,6 +1,6 @@
 ## Sobre o Desafio Projeto
 
-Desenvolvimento de um modelo para identificar o idioma de um texto e traduzi-lo para o português.
+Desenvolvimento de um modelo para identificar o idioma de um texto de um documento ou site e traduzi-lo para o português.
 
 ### Apos criação do Resouce Group 
 ![image](https://github.com/user-attachments/assets/bec52536-44e3-4ddc-8caa-ba0ec66d4356)
