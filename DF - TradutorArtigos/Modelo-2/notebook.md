@@ -14,6 +14,6 @@
 ![image](https://github.com/user-attachments/assets/3dbb1953-4d02-4604-a5e6-79ab4c06c70d)
 
 ### Tradução da Pagina
-Obs: Por não ter feito a limitação dos tokens o resultado vai estar incompleto...
+Obs: Por não ter feito a limitação dos tokens anteriormente o resultado vai estar incompleto...
 Irei atualizar o mais breve possivel
 ![image](https://github.com/user-attachments/assets/cba77689-d6b7-4063-91ae-45b906503ed4)
